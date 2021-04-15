@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 3:44
 <a href="https://www.facebook.com/duonq.chu.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
-- :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ch&show_icons=true&locale=en" alt="ChuDucDuong" /></p>
+- :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Duongqua36&show_icons=true&locale=en" alt="Duongqua36" /></p>
 trinhdangvan/trinhdangvan** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
