@@ -1,5 +1,5 @@
 <h1 align="center">Xin Chào, Tôi là DƯƠNG DOLCE <a href="https://www.facebook.com/duonq.chu.5"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<h3 align="center">Fresher Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
+<h3 align="center"> Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
 - :speech_balloon: Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..**
 - - - :mailbox: Liên hệ Gmail với tôi tại *chuduong0306@gmail.com*
 - :male-technologist: Mọi dự án của tôi đều có tại [tr](https://github.com/Duongqua36)
