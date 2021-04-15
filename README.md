@@ -1,5 +1,5 @@
 <h1 align="center">Xin Chào, Tôi là DƯƠNG DOLCE <a href="https://www.facebook.com/duonq.chu.5"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<h3 align="center"> Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
+<h3 align="center">Web Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
 - :speech_balloon: Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..**
 - - - :mailbox: Liên hệ Gmail với tôi tại *chuduong0306@gmail.com*
 - :male-technologist: Mọi dự án của tôi đều có tại [tr](https://github.com/Duongqua36)
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/duonq.chu.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
 - :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Duongqua36&show_icons=true&locale=en" alt="Duongqua36" /></p>
-trinhdangvan/trinhdangvan** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+Duongqua36/Duongqua36** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
