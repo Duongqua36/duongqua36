@@ -1,8 +1,8 @@
-<h1 align="center">Xin Chào, Tôi là duong<a href="https://www.facebook.com/profile.php?id=100029250073046"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h1 align="center">Xin Chào, Tôi là DƯƠNG DOLCE <a href="https://www.facebook.com/duonq.chu.5"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 <h3 align="center">Fresher Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
 - :speech_balloon: Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..**
-- - - :mailbox: Liên hệ Gmail với tôi tại *tuehue03@gmail.com*
-- :male-technologist: Mọi dự án của tôi đều có tại [tr](https://github.com/trinhdangvan)
+- - - :mailbox: Liên hệ Gmail với tôi tại *chuduong0306@gmail.com*
+- :male-technologist: Mọi dự án của tôi đều có tại [tr](https://github.com/Duongqua36)
 Here are some ideas to get you started:
 - :telescope: I’m currently working on CodeGym
 <h3 align="left">Ngôn ngữ và công cụ sử dụng :</h3>
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <h3 align="left">Liên Hệ Với Tôi:</h3>
 <p align="left">
 3:44
-<a href="https://www.facebook.com/profile.php?id=100029250073046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
-<a href="https://www.instagram.com/van13072002//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
-- :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinhdangvan&show_icons=true&locale=en" alt="trinhdangvan" /></p>
+<a href="https://www.facebook.com/duonq.chu.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
+- :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ch&show_icons=true&locale=en" alt="ChuDucDuong" /></p>
 trinhdangvan/trinhdangvan** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
